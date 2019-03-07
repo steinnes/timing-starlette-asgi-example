@@ -4,5 +4,5 @@ setup:
 venv: setup
 	venv/bin/pip install -r requirements.txt
 
-run:
+run: venv
 	venv/bin/python app.py
