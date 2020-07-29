@@ -1,4 +1,4 @@
 datadog==0.27.0
 starlette==0.12
-uvicorn==0.7.1
+uvicorn==0.11.7
 timing-asgi==0.2.0
